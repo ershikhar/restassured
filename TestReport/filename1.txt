@@ -1,0 +1,7 @@
+1600	1600	[street_number]	
+Amphitheatre Parkway	Amphitheatre Pkwy	[route]	
+Mountain View	Mountain View	[locality, political]	
+Santa Clara County	Santa Clara County	[administrative_area_level_2, political]	
+California	CA	[administrative_area_level_1, political]	
+United States	US	[country, political]	
+94043	94043	[postal_code]	

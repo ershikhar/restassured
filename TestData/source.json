@@ -1,0 +1,52 @@
+[  
+   {  
+      "id":2,
+      "name":"India Pune",
+      "description":"Pune",
+      "condition":"ss",
+      "depth":-4,
+      "latitude":-1.0,
+      "longitude":1.0,
+      "yearDiscovered":1949
+   },
+   {  
+      "id":3,
+      "name":"Bombay New1",
+      "description":"Bombay New1",
+      "condition":"Bombay navi",
+      "depth":3,
+      "latitude":3.0,
+      "longitude":3.0,
+      "yearDiscovered":2
+   },
+   {  
+      "id":4,
+      "name":"Barclays India",
+      "description":"Barclays India",
+      "condition":"Barclays India P2",
+      "depth":3,
+      "latitude":-3.0,
+      "longitude":-3.0,
+      "yearDiscovered":2
+   },
+   {  
+      "id":5,
+      "name":"Barclays Glasgo",
+      "description":"Barclays Glasgo",
+      "condition":"Barclays Glasgo",
+      "depth":-5,
+      "latitude":5.0,
+      "longitude":3.0,
+      "yearDiscovered":3
+   },
+   {  
+      "id":6,
+      "name":"Barclays Wealth",
+      "description":"Barclays Wealth",
+      "condition":"Barclays Wealth",
+      "depth":-4,
+      "latitude":2.0,
+      "longitude":3.0,
+      "yearDiscovered":3
+   }
+]
